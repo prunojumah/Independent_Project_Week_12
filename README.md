@@ -2,11 +2,9 @@
 
 ## PREDICTION FOR THE LIKELIHOOD OF AN INDIVIDUAL TO CLICK AN AD
 
-#### {The dataset available contains data on individuals who use the internet and their corresponding information. }
+#### {The dataset available contains data on individuals who use the internet and their corresponding information. The main aim of this project is to determine which group of individuals are more likely to click on an add of a cryptography course offered by a Kenyan entrepreneur. The project is done in R.}
 #### By **{Pruno Jumah}**
 
-## Description
-{ This is a model that predicts a person's chance of survival using various attributes. }
 
 ## Setup/Installation Requirements
 * Python Editor
